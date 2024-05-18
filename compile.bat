@@ -1,0 +1,1 @@
+gcc.exe -fdiagnostics-color=always -g *.c -o output\CalcMatriz.exe -I"."
